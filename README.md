@@ -53,6 +53,3 @@ Le script utilise les services suivants :
 * `PropertiesService` : Pour la persistance des données de la partie en cours (`ScriptProperties`).
 
 Les constantes de configuration (couleurs, emojis, taille de la grille) sont modifiables via l'objet `CONFIG` en début de script.
-
----
-*Développé avec ❤️ par Fabrice Faucheux.*
